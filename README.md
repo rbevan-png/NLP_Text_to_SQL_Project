@@ -4,11 +4,6 @@
 1. Download the Spider dataset:
    [Spider Dataset on Kaggle](https://www.kaggle.com/datasets/jeromeblanchet/yale-universitys-spider-10-nlp-dataset?resource=download)
 2. Upload the dataset files to your Colab environment.
-3. Set your OpenAI API key in the notebook.
-4. Choose the model to evaluate by setting the `USE_MODEL` variable.
-5. Run the notebook cells to generate and evaluate SQL queries.
-6. Review the accuracy metrics and inspect outputs in the saved CSV files.
-
 
 # Text-to-SQL Evaluation using GPT Models
 
