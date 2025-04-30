@@ -127,7 +127,7 @@ This Colab notebook evaluates large language models (LLMs) on the Spider dataset
 - Saves results in CSV format for analysis
 - Modular design for easily switching between models
 
-  ## Evaluation
+## Evaluation
 
 The Zero-Shot GPT-4o produced:
 
