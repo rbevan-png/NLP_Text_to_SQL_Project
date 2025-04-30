@@ -127,6 +127,25 @@ This Colab notebook evaluates large language models (LLMs) on the Spider dataset
 - Saves results in CSV format for analysis
 - Modular design for easily switching between models
 
+  ## Evaluation
+
+The Zero-Shot GPT-4o produced:
+
+- **Exact Match Accuracy**: 27.27% (282/1034)
+- **Execution Accuracy**: 71.37% (738/1034)
+
+The Pretrained GPT-3.5 Produced:
+- **Exact Match Accuracy**: 36.65% (379/1034)
+- **Execution Accuracy**: 67.79% (701/1034)
+
+
+## Limitations
+
+- GPT models are external and are costly to pretrain (~$50 for Spider).
+- GPT models are external and require API calls to be queried.
+- The weaker 3.5 struggled with generating proper SQL.
+- Zero-Shot 4o did better at SQL, but did not internalize the patterns of the Spider dataset.
+
 ## How to Use
 
 1. Upload the Spider dataset files to your Colab environment.
