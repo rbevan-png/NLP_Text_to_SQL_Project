@@ -7,6 +7,7 @@
 
 # Text-to-SQL Evaluation using GPT Models
 
+Notebook inside the GPT folder.
 This Colab notebook evaluates large language models (LLMs) on the Spider dataset using both zero-shot prompting and fine-tuned approaches. The goal is to generate SQL queries from natural language questions and assess model performance using both structural and semantic metrics.
 
 ## Features
