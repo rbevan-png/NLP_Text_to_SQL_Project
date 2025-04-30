@@ -26,7 +26,7 @@ This module fine-tunes the `t5-large-lm-adapt` language model on the Spider data
 Final model performance on the Spider dev set:
 
 - **Exact Match Accuracy**: 32.30% (334/1034)
-- **Execution Accuracy**: 45.16% (467/1034) valid executions)
+- **Execution Accuracy**: 45.16% (467/1034)
 
 These results demonstrate a substantial gap between structural match and semantic correctness, indicating that the model frequently produces alternative but valid SQL formulations.
 
