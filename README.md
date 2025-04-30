@@ -104,10 +104,9 @@ Common failure cases included hallucinated tables and malformed tokens, suggesti
 
 ## Dataset Sources
 
-- SQLCreateContext: [arXiv:2305.12329](https://arxiv.org/abs/2305.12329)
-- Text-to-SQL v1: [arXiv:1709.00103](https://arxiv.org/abs/1709.00103)
-- KnowSQL: [arXiv:2010.02850](https://arxiv.org/abs/2010.02850)
-- Spider: [arXiv:1809.08887](https://arxiv.org/abs/1809.08887)
+- https://huggingface.co/datasets/b-mc2/sql-create-context
+- https://huggingface.co/datasets/Clinton/Text-to-sql-v1
+- https://huggingface.co/datasets/knowrohit07/know_sql
 
 # Text-to-SQL Evaluation using GPT Models
 
